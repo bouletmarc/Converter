@@ -1,6 +1,6 @@
-# Converter (Honda Tuning Files, eCtune & NepTune)
+# Converter (Honda Tuning Files)
 
-The Converter will convert eCtune or NepTune Files.
+The Converter will convert some files made with different kind of Tuning software for Honda.
 
 WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 installed)
 
@@ -13,19 +13,13 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 
 # What the tool does :
 
--Convert eCtune .cal to .bin
+-Convert .cal to .bin
 
--Convert eCtune .bin to .cal
+-Convert .bin to .cal
 
--Extract NepTune RTP .bin
-
--Convert Neptune RTP .bin to a NepTune Dealer .bin (can be used on a chips)
-
--Download eCtune Calibrations Files
+-Extract NepTune .bin
 
 -Read/Write/Verify Moates Emulators (Burn2, Ostrich2.0, DemonII)
-
--Chande eCtune .bin baserom version to older version
 
 -Edit some quick parameters (such as sensors options, vtec, rev limiter)
 
@@ -47,17 +41,9 @@ Repeat the step 2-3
 
 # -------------------------------------
 
-# Extras Files :
-
-- Ectune Tuner Cracked https://github.com/bouletmarc/eCtune_Tuner
-
-- Neptune Dealer Cracked https://github.com/bouletmarc/NeptuneDealer
-
-- Crome GOLD Dealer https://github.com/bouletmarc/Crome_Tuning_Gold
-
 # Donations :
 
-You can donate to me using [This Link][].  All donations are greatly appreciated and will be used in the ECU development. This converter save you a lot's of money, well atleast (325$USD Minimal (Ostrich 175$USD / ECtune License 150$USD)) so a small amount of 5$USD is very appreciated.
+You can donate to me using [This Link][].
 
 [This Link]: <https://www.paypal.me/bouletmarc>
 [HERE]: <https://github.com/bouletmarc/Converter/archive/master.zip>
