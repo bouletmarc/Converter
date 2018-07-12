@@ -19,6 +19,8 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 
 -Extract NepTune .bin
 
+-Extract SManager (Hondata S300) .bin
+
 -Read/Write/Verify Moates Emulators (Burn2, Ostrich2.0, DemonII)
 
 -Edit some quick parameters (such as sensors options, vtec, rev limiter)
