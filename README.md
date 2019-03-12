@@ -2,7 +2,8 @@
 
 The Converter will convert some files made with different kind of Tuning software for Honda.
 
-WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 installed)
+Works with Windows XP/Vista/7/8/10 (32bit & 64bit)
+Require Microsoft .net 3.5 installed
 
 # Download : [HERE][]
 
@@ -11,19 +12,25 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 
 # What the tool does :
 
--Convert .cal to .bin
+-Convert eCtune .cal to .bin
 
--Convert .bin to .cal
+-Convert eCtune .bin to .cal
 
--Extract NepTune .bin
+-Extract .bin from NepTune RTP Software
 
--Extract SManager (Hondata S300) .bin
+-Extract .bin from SManager (Hondata S300) Software
+
+-Remove the 4000rpm limit on Hondata S300 .bin
 
 -Read/Write/Verify Moates Emulators (Burn2, Ostrich2.0, DemonII)
 
 -Edit some quick parameters (such as sensors options, vtec, rev limiter)
 
 -Etc ...
+
+# Buying your lifetime registration for the Converter :
+
+You can buy your lifetime registration using [This link][].
 
 # -------------------------------------
 
@@ -32,5 +39,6 @@ WORKS FOR WINDOWS XP/Vista/7/8/10 (32bit & 64bit) (Require Microsoft .net 3.5 in
 You can donate to me using [This Link][].
 
 [This Link]: <https://www.paypal.me/bouletmarc>
+[This link]: <https://bmdevs.fwscheckout.com/>
 [HERE]: <https://github.com/bouletmarc/Converter/archive/master.zip>
 [BUY]: <https://bmdevs.fwscheckout.com/>
