@@ -4,9 +4,9 @@ The Converter will convert some files made with different kind of Tuning softwar
 
 # Requirement :
 
-- Windows XP/Vista/7/8/10 (32bit & 64bit)
+-Windows XP/Vista/7/8/10 (32bit & 64bit)
 
-- Microsoft .Net 3.5 Installed (most computer already have it)
+-Microsoft .Net 3.5 Installed (most computer already have it)
 
 # Download : [HERE][]
 
@@ -36,6 +36,24 @@ The Converter will convert some files made with different kind of Tuning softwar
 # Buying your lifetime registration for the Converter :
 
 You can buy your lifetime registration using [This link][].
+
+# How to Extract Neptune/Smanager (Hondata) .bin :
+
+1. Open Neptune RTP or SManager Software
+
+2. Create or Open your calibration file that are ready to be converted for a .bin
+
+3. When the calibration is open in Neptune RTP or SManager, Open the Converter Tool
+
+4. On the Converter Tool, Select 'Files/Extract Neptune RTP (or SManager)'
+
+5. All Files found within the software 'memory' will be saved where the Converter are located
+
+6. Go where the Converter are located, then open the folder 'Files' and then the folder 'RTP' (or SManager)
+
+7. All files will ba named as 'DumpX.bin', where X is the number of the file extracted.
+
+8. There will be several DumpX.bin, so start by the first one 'Dump1.bin' burn it on a chips, if the chips doesn't react like the calibration, then try burning Dump2.bin and continu that way
 
 # -------------------------------------
 
