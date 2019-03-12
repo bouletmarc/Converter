@@ -20,13 +20,15 @@ Require Microsoft .net 3.5 installed
 
 -Extract .bin from SManager (Hondata S300) Software
 
--Remove the 4000rpm limit on Hondata S300 .bin
-
 -Read/Write/Verify Moates Emulators (Burn2, Ostrich2.0, DemonII)
 
 -Edit some quick parameters (such as sensors options, vtec, rev limiter)
 
--Etc ...
+-Remove the 4000rpm limit on Hondata S300 .bin
+
+-Fix the Checksum Routine on eCtune files
+
+-Mores
 
 # Buying your lifetime registration for the Converter :
 
