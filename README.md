@@ -2,9 +2,11 @@
 
 The Converter will convert some files made with different kind of Tuning software for Honda.
 
-Works with Windows XP/Vista/7/8/10 (32bit & 64bit)
+# Requirement :
 
-Require Microsoft .net 3.5 installed
+- Windows XP/Vista/7/8/10 (32bit & 64bit)
+
+- Microsoft .Net 3.5 Installed (most computer already have it)
 
 # Download : [HERE][]
 
