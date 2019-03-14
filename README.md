@@ -35,7 +35,7 @@ The Converter will convert some files made with different kind of Tuning softwar
 
 # Buying your lifetime registration for the Converter :
 
-You can buy your lifetime registration using [This link][].
+You can buy your lifetime registration using [The Webstore][].
 
 # How to Extract Neptune/Smanager (Hondata) .bin :
 
@@ -62,6 +62,6 @@ You can buy your lifetime registration using [This link][].
 You can donate to me using [This Link][].
 
 [This Link]: <https://www.paypal.me/bouletmarc>
-[This link]: <https://bmdevs.fwscheckout.com/>
+[The Webstore]: <https://bmdevs.fwscheckout.com/>
 [HERE]: <https://github.com/bouletmarc/Converter/archive/master.zip>
 [BUY]: <https://bmdevs.fwscheckout.com/>
