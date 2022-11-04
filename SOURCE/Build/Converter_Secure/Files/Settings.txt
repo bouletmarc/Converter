@@ -1,0 +1,4 @@
+Save_Logs=False
+Advanced_Logs=False
+Ectune_Baserom=0065.3.pri
+Patch_4kRPM_Hondata=True
