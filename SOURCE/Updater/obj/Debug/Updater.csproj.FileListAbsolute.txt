@@ -1,0 +1,8 @@
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Build\Updater.exe
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Build\Updater.pdb
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.Main_Form.resources
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.exe
+C:\Users\CoCo\Documents\Visual Studio 2015\Projects\Converter\Updater\obj\Debug\Updater.pdb
